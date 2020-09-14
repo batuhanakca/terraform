@@ -21,5 +21,5 @@ variable "instance_type" {
 }
 
 variable "allow_from" {
-  default = "176.234.23.131/32"
+  default = "10.10.10.10/32" #Change this with Your Local IP Address
 }
